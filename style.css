@@ -1,0 +1,49 @@
+.div_header{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(77, 155, 223);
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+}
+body{
+    text-align: center;
+    background-color: rgb(104, 124, 124);
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    color: black;
+}
+.card, .result{
+    background-color: rgb(15, 185, 185);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px white;
+    margin-top: 20px;
+    margin-left: 325px;
+    padding: 25px;
+    
+    
+}
+.card img{
+    border: 1px solid black;
+    padding: 5px;
+    width: 325px;
+    height: 200px;
+    
+}
+span{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.result h4{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    
+}
